@@ -1,0 +1,5 @@
+{
+  "name": "YQT Quant Safe-Bot",
+  "description": "A sophisticated AI-powered trading signal dashboard that leverages Gemini 3 to analyze market trends and provide actionable 'Buy', 'Sell', or 'Hold' signals with deep reasoning.",
+  "requestFramePermissions": []
+}
